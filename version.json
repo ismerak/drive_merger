@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "release_date": "2024-05-22",
+  "download_url": "https://raw.githubusercontent.com/ismerak/drive_merger/refs/heads/main/drive_master.exe",
+  "changelog": [
+    "ជួសជុលកំហុស (Bugs) ពេលបើកកម្មវិធី",
+    "មុខងារ Windows Activation",
+    "កំណែរកម្មវិធីថ្មីៗ និងការកែលម្អប្រសើរឡើង"
+  ],
+  "restrictions": {
+    "លេខ-HWID-ម៉ាស៊ីន-ដែលត្រូវបិទ": [
+      "activate_win",
+      "wtg"
+    ],
+    "លេខ-HWID-ដែលត្រូវបិទកម្មវិធីទាំងស្រុង": [
+      "all_features"
+    ]
+  }
+}
