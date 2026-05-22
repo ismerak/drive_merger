@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "release_date": "2024-05-22",
+  "release_date": "2026-05-23",
   "download_url": "https://github.com/ismerak/drive_merger/releases/download/v.1.0.1/Drive.Master.Pro.exe",
   "changelog": [
     "ជួសជុលកំហុស (Bugs) ពេលបើកកម្មវិធី",
@@ -14,6 +14,10 @@
     ],
     "លេខ-HWID-ដែលត្រូវបិទកម្មវិធីទាំងស្រុង": [
       "all_features"
+    ],
+    "4C4C4544-0036-3010-8057-B6C04F5A4833": [
+      "activate_win",
+      "convert_style"
     ]
   }
 }
